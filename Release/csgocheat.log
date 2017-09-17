@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: Two or more files with the name of Controls.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\Новая папка\Akfsdbfkjsndflasdoahsdajklsdmnla — копия (2)\csgocheat\Tools\Menu\Controls.cpp, Tools\Menu\Controls.cpp.
+  Controls.cpp
+  Controls.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\Новая папка\Akfsdbfkjsndflasdoahsdajklsdmnla — копия (2)\csgocheat\Tools\Menu\Controls.cpp': No such file or directory
+  Generating Code...
